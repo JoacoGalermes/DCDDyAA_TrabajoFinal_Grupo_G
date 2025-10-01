@@ -16,3 +16,11 @@ No se sube el dataset al repositorio. El notebook/script **lo descarga automáti
    [`https://colab.research.google.com/github/DCDDyAA_TrabajoFinal_Grupo_G.ipynb`](https://colab.research.google.com/drive/1D-ohWJUBz13tRi07BedtVAtNVSDiJZB0#scrollTo=trqwrxljjPje)
 2. Ejecutar todas las celdas (el dataset se descarga con `gdown`).
 3. Al final se muestran métricas (AUC-ROC, AUC-PR), matriz de confusión y el umbral óptimo por costo.
+
+## Autores
+- Arenas, Diego
+- Díaz, Augusto
+- Galermes, Joaquín
+- Palazón, Agustina
+- Telis, Mónica
+- Vidable, Ignacio
