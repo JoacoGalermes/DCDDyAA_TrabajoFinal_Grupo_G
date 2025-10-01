@@ -5,6 +5,7 @@ Este repositorio contiene el **Trabajo Final Integrador** para detección de fra
 ## Contenidos
 - "DCDDyAA_TrabajoFinal_Grupo_G.ipynb"
 - "requirements.txt"
+- ".gitignore"
 
 ## Dataset
 No se sube el dataset al repositorio. El notebook/script **lo descarga automáticamente** con `gdown` desde Google Drive (ID ya incluido en el código).  
