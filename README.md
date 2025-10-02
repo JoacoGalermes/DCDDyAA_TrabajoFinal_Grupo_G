@@ -19,7 +19,7 @@ No se sube el dataset al repositorio. El notebook/script **lo descarga automáti
 3. Al final se muestran métricas (AUC-ROC, AUC-PR), matriz de confusión y el umbral óptimo por costo.
 
 ## Link de Youtube
-['DCDDyAA TrabajoFinal Grupo G'](https://www.youtube.com/watch?v=DN8F2__ul0w)
+['DCDDyAA Trabajo Final Grupo G'](https://www.youtube.com/watch?v=DN8F2__ul0w)
 
 ## Autores
 - Arenas, Diego
